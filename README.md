@@ -1,2 +1,1 @@
-# saints
-Multimodal Sports Analytics Intelligence Network System
+# Multimodal Sports Analytics Intelligence Network System
